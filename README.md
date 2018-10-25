@@ -1,2 +1,2 @@
 # hello-world
-Getting startetd!
+Getting started!
